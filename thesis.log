@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.25)  8 MAR 2024 23:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.25)  14 MAR 2024 17:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -352,23 +352,119 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 [3
 
-] [4] [5] [6] [7] [8] [9] [10] [11] [12]
+]
+<./images/hourly-wage-age.png, id=15, 3243.11626pt x 1942.25626pt>
+File: ./images/hourly-wage-age.png Graphic file (type png)
+<use ./images/hourly-wage-age.png>
+Package pdftex.def Info: ./images/hourly-wage-age.png  used on input line 43.
+(pdftex.def)             Requested size: 227.62206pt x 136.29782pt.
+<./images/non-participation-age.png, id=17, 3243.11626pt x 1942.25626pt>
+File: ./images/non-participation-age.png Graphic file (type png)
+<use ./images/non-participation-age.png>
+Package pdftex.def Info: ./images/non-participation-age.png  used on input line
+ 49.
+(pdftex.def)             Requested size: 227.62206pt x 136.29782pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 41--53
+[][] [] 
+ []
+
+<./images/underemployment-rate-age.png, id=18, 3252.15pt x 1951.29pt>
+File: ./images/underemployment-rate-age.png Graphic file (type png)
+<use ./images/underemployment-rate-age.png>
+Package pdftex.def Info: ./images/underemployment-rate-age.png  used on input l
+ine 58.
+(pdftex.def)             Requested size: 227.62206pt x 136.54471pt.
+<./images/unemployment-rate-age.png, id=19, 3252.15pt x 1951.29pt>
+File: ./images/unemployment-rate-age.png Graphic file (type png)
+<use ./images/unemployment-rate-age.png>
+Package pdftex.def Info: ./images/unemployment-rate-age.png  used on input line
+ 64.
+(pdftex.def)             Requested size: 227.62206pt x 136.54471pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 56--68
+[][] [] 
+ []
+
+[4 <./images/hourly-wage-age.png> <./images/non-participation-age.png>]
+[5 <./images/underemployment-rate-age.png> <./images/unemployment-rate-age.png>
+]
+<./images/employment-rate-gender.png, id=30, 3243.11626pt x 1942.25626pt>
+File: ./images/employment-rate-gender.png Graphic file (type png)
+<use ./images/employment-rate-gender.png>
+Package pdftex.def Info: ./images/employment-rate-gender.png  used on input lin
+e 99.
+(pdftex.def)             Requested size: 227.62206pt x 136.29782pt.
+<./images/hourly-wage-gender.png, id=31, 3252.15pt x 1942.25626pt>
+File: ./images/hourly-wage-gender.png Graphic file (type png)
+<use ./images/hourly-wage-gender.png>
+Package pdftex.def Info: ./images/hourly-wage-gender.png  used on input line 10
+5.
+(pdftex.def)             Requested size: 227.62206pt x 135.91255pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 97--109
+[][] [] 
+ []
+
+<./images/part-time-rate-gender.png, id=32, 3252.15pt x 1951.29pt>
+File: ./images/part-time-rate-gender.png Graphic file (type png)
+<use ./images/part-time-rate-gender.png>
+Package pdftex.def Info: ./images/part-time-rate-gender.png  used on input line
+ 114.
+(pdftex.def)             Requested size: 227.62206pt x 136.54471pt.
+<./images/prefer-part-time-gender.png, id=33, 3243.11626pt x 1942.25626pt>
+File: ./images/prefer-part-time-gender.png Graphic file (type png)
+<use ./images/prefer-part-time-gender.png>
+Package pdftex.def Info: ./images/prefer-part-time-gender.png  used on input li
+ne 120.
+(pdftex.def)             Requested size: 227.62206pt x 136.29782pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 112--124
+[][] [] 
+ []
+
+[6 <./images/employment-rate-gender.png> <./images/hourly-wage-gender.png> <./i
+mages/part-time-rate-gender.png> <./images/prefer-part-time-gender.png>]
+[7]
+<./images/unemployment-rate-regions.png, id=45, 3252.15pt x 1951.29pt>
+File: ./images/unemployment-rate-regions.png Graphic file (type png)
+<use ./images/unemployment-rate-regions.png>
+Package pdftex.def Info: ./images/unemployment-rate-regions.png  used on input 
+line 147.
+(pdftex.def)             Requested size: 227.62206pt x 136.54471pt.
+<./images/gdp-per-capita-regions.png, id=46, 3243.11626pt x 1942.25626pt>
+File: ./images/gdp-per-capita-regions.png Graphic file (type png)
+<use ./images/gdp-per-capita-regions.png>
+Package pdftex.def Info: ./images/gdp-per-capita-regions.png  used on input lin
+e 153.
+(pdftex.def)             Requested size: 227.62206pt x 136.29782pt.
+
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 145--157
+[][] [] 
+ []
+
+[8] [9 <./images/unemployment-rate-regions.png> <./images/gdp-per-capita-region
+s.png>] [10] [11] [12]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13] [14] [15
+[13] [14]
 
-] [16] (./thesis.bbl) [17
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15] [16] [17
+
+] [18] (./thesis.bbl) [19
 
 ] (./thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 3538 strings out of 477476
- 54009 string characters out of 5824244
+ 3610 strings out of 477476
+ 56636 string characters out of 5824244
  1894388 words of memory out of 5000000
- 23715 multiletter control sequences out of 15000+600000
+ 23775 multiletter control sequences out of 15000+600000
  566058 words of font info for 148 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 57i,9n,62p,1921b,303s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,62p,1921b,373s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmex10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/
@@ -379,10 +475,10 @@ e1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts
 imes/utmb8a.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/urw/times/
 utmr8a.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on thesis.pdf (17 pages, 114421 bytes).
+Output written on thesis.pdf (19 pages, 1383007 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 133 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
