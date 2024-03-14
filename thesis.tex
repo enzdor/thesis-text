@@ -1,9 +1,24 @@
 \documentclass[12pt]{article}
-\usepackage{amsmath, amssymb, amsthm, setspace, mathptmx, apalike, graphicx}
-%multirow
+\usepackage{amsmath, amssymb, amsthm, setspace, apalike, graphicx}
 \usepackage[a4paper, margin=2.5cm]{geometry}
 
-\title{The Relationship of Age, Gender, and Region on Income in Italy}
+
+
+
+
+%% FRONT PAGE PACKAGES
+
+
+\usepackage{lmodern}
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+
+\usepackage{mathptmx}
+
+\title{The Relationship of Age, Gender, and Region, on Income in Italy}
 \author{Enzo Lopes Baitello}
 
 
@@ -14,7 +29,67 @@
 
 \begin{document}
 
-\maketitle
+\begin{spacing}{2}
+
+{
+\centering
+\resizebox{\textwidth}{!}{
+\begin{tabular}{c}
+\large\textbf{ALMA MATER STUDIORUM - UNIVERSITA' DI BOLOGNA} \\
+\bottomrule
+\end{tabular}
+}
+}
+
+
+\centering{
+\textbf{ SCUOLA DI ECONOMIA E MANAGEMENT\\
+\emph{SCHOOL OF ECONOMICS AND MANAGEMENT}}
+}
+
+\bigskip
+
+\begin{spacing}{1.25}
+\textbf{\small Corso di Laurea\\
+First cycle degree}
+\end{spacing}
+
+\textbf{\small In}
+
+\textbf{BUSINESS AND ECONOMICS}
+
+\bigskip
+
+\begin{spacing}{1.5}
+
+\textbf{\Large The Relationship of Age, Gender and Region on Income in Italy}
+\end{spacing}
+
+\bigskip
+\bigskip
+\bigskip
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3847}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6153}}@{}}
+\endhead
+\endlastfoot
+\textbf{ PRESENTATA DA } & \\
+\textbf{  \emph{DEFENDED BY}} & \\
+ Enzo Lopes Baitello & \\
+ 0001005059 & \\
+\end{longtable}
+
+\vfill
+
+\textbf{Sessione terza / Graduation session
+third}
+
+\clearpage
+
+\textbf{Anno Accademico -- Academic year 2023/2024}
+
+\end{spacing}
 
 \clearpage
 \tableofcontents

@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.25)  14 MAR 2024 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.13)  14 MAR 2024 10:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**thesis
+**thesis.tex
 (./thesis.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/base/article.cls
+(/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/base/size12.clo
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,24 +23,24 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen141
 ))
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen142
 )
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count193
@@ -91,10 +91,10 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -102,7 +102,7 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/amscls/amsthm.sty
+(/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks21
 \thm@bodyfont=\toks22
@@ -114,79 +114,43 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip55
 \dth@everypar=\toks26
 )
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/setspace/setspace.sty
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/psnfss/mathptmx.sty
-Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
-\symbold=\mathgroup6
-\symitalic=\mathgroup7
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
-LaTeX Info: Redefining \hbar on input line 50.
-)
-(/usr/local/texlive/2023basic/texmf-dist/tex/generic/bibtex/apalike.sty
+(/usr/share/texmf-dist/tex/generic/bibtex/apalike.sty
 \bibhang=\skip56
 )
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks27
 )
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen150
 \Gin@req@width=\dimen151
 )
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/generic/iftex/iftex.sty
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count271
@@ -202,56 +166,208 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen159
 \Gm@dimlist=\toks28
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-4.
+(/usr/share/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(/usr/share/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip57
+\LTright=\skip58
+\LTpre=\skip59
+\LTpost=\skip60
+\LTchunksize=\count274
+\LTcapwidth=\dimen160
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count275
+\LT@rows=\count276
+\c@LT@tables=\count277
+\c@LT@chunks=\count278
+\LT@p@ftn=\toks29
+)
+(/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen161
+\lightrulewidth=\dimen162
+\cmidrulewidth=\dimen163
+\belowrulesep=\dimen164
+\belowbottomsep=\dimen165
+\aboverulesep=\dimen166
+\abovetopsep=\dimen167
+\cmidrulesep=\dimen168
+\cmidrulekern=\dimen169
+\defaultaddspace=\dimen170
+\@cmidla=\count279
+\@cmidlb=\count280
+\@aboverulesep=\dimen171
+\@belowrulesep=\dimen172
+\@thisruleclass=\count281
+\@lastruleclass=\count282
+\@thisrulewidth=\dimen173
+)
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen174
+\ar@mcellbox=\box58
+\extrarowheight=\dimen175
+\NC@list=\toks30
+\extratabsurround=\skip61
+\backup@length=\skip62
+\ar@cellbox=\box59
+)
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count283
+\calc@Bcount=\count284
+\calc@Adimen=\dimen176
+\calc@Bdimen=\dimen177
+\calc@Askip=\skip63
+\calc@Bskip=\skip64
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count285
+\calc@Cskip=\skip65
+)
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count286
+)
+(/usr/share/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/lmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/lmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+0.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
-ef
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box60
 ) (./thesis.aux)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-
-(/usr/local/texlive/2023basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count275
-\scratchdimen=\dimen160
-\scratchbox=\box54
-\nofMPsegments=\count276
-\nofMParguments=\count277
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count278
-\MPscratchDim=\dimen161
-\MPnumerator=\count279
-\makeMPintoPDFobject=\count280
-\everyMPtoPDFconversion=\toks30
-)
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
-ty
+\scratchcounter=\count288
+\scratchdimen=\dimen178
+\scratchbox=\box61
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen179
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks32
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -290,195 +406,196 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 16.
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+ 41.
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 16.
+ 41.
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+(/usr/share/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 16.
+ 41.
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+(/usr/share/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 16.
+ 41.
 
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+(/usr/share/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
- [1
-
-{/usr/local/texlive/2023basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/us
-r/local/texlive/2023basic/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./thesis.to
-c
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-)
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--43
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
+/enc/dvips/base/8r.enc}] [2
+
+] (./thesis.toc)
 \tf@toc=\write3
 \openout3 = `thesis.toc'.
 
-
-[2
+ [3
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
-6.
- (/usr/local/texlive/2023basic/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+12.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-[3
+) [4
 
 ]
-<./images/hourly-wage-age.png, id=15, 3243.11626pt x 1942.25626pt>
+<./images/hourly-wage-age.png, id=19, 3243.11626pt x 1942.25626pt>
 File: ./images/hourly-wage-age.png Graphic file (type png)
 <use ./images/hourly-wage-age.png>
-Package pdftex.def Info: ./images/hourly-wage-age.png  used on input line 43.
+Package pdftex.def Info: ./images/hourly-wage-age.png  used on input line 119.
 (pdftex.def)             Requested size: 227.62206pt x 136.29782pt.
-<./images/non-participation-age.png, id=17, 3243.11626pt x 1942.25626pt>
+<./images/non-participation-age.png, id=21, 3243.11626pt x 1942.25626pt>
 File: ./images/non-participation-age.png Graphic file (type png)
 <use ./images/non-participation-age.png>
 Package pdftex.def Info: ./images/non-participation-age.png  used on input line
- 49.
+ 125.
 (pdftex.def)             Requested size: 227.62206pt x 136.29782pt.
 
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 41--53
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 117--129
 [][] [] 
  []
 
-<./images/underemployment-rate-age.png, id=18, 3252.15pt x 1951.29pt>
+<./images/underemployment-rate-age.png, id=22, 3252.15pt x 1951.29pt>
 File: ./images/underemployment-rate-age.png Graphic file (type png)
 <use ./images/underemployment-rate-age.png>
 Package pdftex.def Info: ./images/underemployment-rate-age.png  used on input l
-ine 58.
+ine 134.
 (pdftex.def)             Requested size: 227.62206pt x 136.54471pt.
-<./images/unemployment-rate-age.png, id=19, 3252.15pt x 1951.29pt>
+<./images/unemployment-rate-age.png, id=23, 3252.15pt x 1951.29pt>
 File: ./images/unemployment-rate-age.png Graphic file (type png)
 <use ./images/unemployment-rate-age.png>
 Package pdftex.def Info: ./images/unemployment-rate-age.png  used on input line
- 64.
+ 140.
 (pdftex.def)             Requested size: 227.62206pt x 136.54471pt.
 
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 56--68
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 132--144
 [][] [] 
  []
 
-[4 <./images/hourly-wage-age.png> <./images/non-participation-age.png>]
-[5 <./images/underemployment-rate-age.png> <./images/unemployment-rate-age.png>
+[5 <./images/hourly-wage-age.png> <./images/non-participation-age.png>]
+[6 <./images/underemployment-rate-age.png> <./images/unemployment-rate-age.png>
 ]
-<./images/employment-rate-gender.png, id=30, 3243.11626pt x 1942.25626pt>
+<./images/employment-rate-gender.png, id=34, 3243.11626pt x 1942.25626pt>
 File: ./images/employment-rate-gender.png Graphic file (type png)
 <use ./images/employment-rate-gender.png>
 Package pdftex.def Info: ./images/employment-rate-gender.png  used on input lin
-e 99.
+e 175.
 (pdftex.def)             Requested size: 227.62206pt x 136.29782pt.
-<./images/hourly-wage-gender.png, id=31, 3252.15pt x 1942.25626pt>
+<./images/hourly-wage-gender.png, id=35, 3252.15pt x 1942.25626pt>
 File: ./images/hourly-wage-gender.png Graphic file (type png)
 <use ./images/hourly-wage-gender.png>
-Package pdftex.def Info: ./images/hourly-wage-gender.png  used on input line 10
-5.
+Package pdftex.def Info: ./images/hourly-wage-gender.png  used on input line 18
+1.
 (pdftex.def)             Requested size: 227.62206pt x 135.91255pt.
 
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 97--109
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 173--185
 [][] [] 
  []
 
-<./images/part-time-rate-gender.png, id=32, 3252.15pt x 1951.29pt>
+<./images/part-time-rate-gender.png, id=36, 3252.15pt x 1951.29pt>
 File: ./images/part-time-rate-gender.png Graphic file (type png)
 <use ./images/part-time-rate-gender.png>
 Package pdftex.def Info: ./images/part-time-rate-gender.png  used on input line
- 114.
+ 190.
 (pdftex.def)             Requested size: 227.62206pt x 136.54471pt.
-<./images/prefer-part-time-gender.png, id=33, 3243.11626pt x 1942.25626pt>
+<./images/prefer-part-time-gender.png, id=37, 3243.11626pt x 1942.25626pt>
 File: ./images/prefer-part-time-gender.png Graphic file (type png)
 <use ./images/prefer-part-time-gender.png>
 Package pdftex.def Info: ./images/prefer-part-time-gender.png  used on input li
-ne 120.
+ne 196.
 (pdftex.def)             Requested size: 227.62206pt x 136.29782pt.
 
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 112--124
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 188--200
 [][] [] 
  []
 
-[6 <./images/employment-rate-gender.png> <./images/hourly-wage-gender.png> <./i
+[7 <./images/employment-rate-gender.png> <./images/hourly-wage-gender.png> <./i
 mages/part-time-rate-gender.png> <./images/prefer-part-time-gender.png>]
-[7]
-<./images/unemployment-rate-regions.png, id=45, 3252.15pt x 1951.29pt>
+[8]
+<./images/unemployment-rate-regions.png, id=49, 3252.15pt x 1951.29pt>
 File: ./images/unemployment-rate-regions.png Graphic file (type png)
 <use ./images/unemployment-rate-regions.png>
 Package pdftex.def Info: ./images/unemployment-rate-regions.png  used on input 
-line 147.
+line 223.
 (pdftex.def)             Requested size: 227.62206pt x 136.54471pt.
-<./images/gdp-per-capita-regions.png, id=46, 3243.11626pt x 1942.25626pt>
+<./images/gdp-per-capita-regions.png, id=50, 3243.11626pt x 1942.25626pt>
 File: ./images/gdp-per-capita-regions.png Graphic file (type png)
 <use ./images/gdp-per-capita-regions.png>
 Package pdftex.def Info: ./images/gdp-per-capita-regions.png  used on input lin
-e 153.
+e 229.
 (pdftex.def)             Requested size: 227.62206pt x 136.29782pt.
 
-Overfull \hbox (2.28003pt too wide) in paragraph at lines 145--157
+Overfull \hbox (2.28003pt too wide) in paragraph at lines 221--233
 [][] [] 
  []
 
-[8] [9 <./images/unemployment-rate-regions.png> <./images/gdp-per-capita-region
-s.png>] [10] [11] [12]
+[9] [10 <./images/unemployment-rate-regions.png> <./images/gdp-per-capita-regio
+ns.png>]
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
+254.
+ (/usr/share/texmf-dist/tex/latex/lm/ot1lmtt.fd
+File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [11{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}] [12] [13]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13] [14]
+[14] [15]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15] [16] [17
+[16] [17] [18
 
-] [18] (./thesis.bbl) [19
+] [19] (./thesis.bbl) [20
 
 ] (./thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 3610 strings out of 477476
- 56636 string characters out of 5824244
- 1894388 words of memory out of 5000000
- 23775 multiletter control sequences out of 15000+600000
- 566058 words of font info for 148 fonts, out of 8000000 for 9000
- 319 hyphenation exceptions out of 8191
- 57i,9n,62p,1921b,373s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmex10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts
-/type1/urw/symbol/usyr.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1
-/urw/symbol/usyr.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/urw/t
-imes/utmb8a.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/urw/times/
-utmr8a.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/urw/times/utmri
-8a.pfb>
-Output written on thesis.pdf (19 pages, 1383007 bytes).
+ 4814 strings out of 477985
+ 71565 string characters out of 5840058
+ 1893388 words of memory out of 5000000
+ 24900 multiletter control sequences out of 15000+600000
+ 557956 words of font info for 126 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 57i,9n,62p,1925b,378s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.
+pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fo
+nts/type1/public/lm/lmtt12.pfb></usr/share/texmf-dist/fonts/type1/urw/symbol/us
+yr.pfb></usr/share/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texmf
+-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/t
+imes/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
+share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (20 pages, 1410069 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 142 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
